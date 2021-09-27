@@ -1,6 +1,6 @@
 `use script`;
 
-const hoist = () => {
+const hoist = () => { 
     console.log(n);
     var n = 27;
 
