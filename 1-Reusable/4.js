@@ -1,6 +1,6 @@
 'use script';
 
-let object1 = {
+let object1 = {  
     name: `Nick`
 }
 
