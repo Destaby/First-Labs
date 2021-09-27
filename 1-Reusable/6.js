@@ -1,6 +1,6 @@
 `use script`;
 
-let hash = {
+let hash = { 
     "Marcus Aurelius": "+380445554433",
     "Doesn\`t matter": "+380982713276",
     "Again": "+380999999999",
