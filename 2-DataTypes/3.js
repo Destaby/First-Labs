@@ -1,6 +1,6 @@
 `use script`;
 
-const array = [true, 'hello', 5, 12, -200, false, false, 'word', null, undefined];
+const array = [true, 'hello', 5, 12, -200, false, false, 'word', null, undefined]; 
 let hash = {
     number: 0,
     string: 0,
