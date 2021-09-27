@@ -16,4 +16,4 @@ let findPhoneByName = name => {
 };
 findPhoneByName(`That\`s boring`);
 
-// edit 5
+// edit 7
